@@ -1,1 +1,1 @@
-# adatbaziskezeles1
+# adatbaziskezeles
